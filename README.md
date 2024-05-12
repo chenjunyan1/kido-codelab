@@ -3,7 +3,7 @@
 
 
 
-# <Love/>、<Study/>、<Together/>
+# \<Love/>、 \<Study/>、\<Together/>
 
 一起学习，一起讨论，互相帮助
 
