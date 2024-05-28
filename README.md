@@ -1,5 +1,5 @@
 # 这里是 陈俊雁 团队的官网
-蝌蚪实务学堂最强的编程团队KIDO-CodeLab ： https://chenjunyan1.github.io/KIDO-CodeLab
+实务学堂最强的编程团队KIDO-CodeLab ： https://chenjunyan1.github.io/KIDO-CodeLab
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-Kido-CodeLab由蝌蚪实务学堂的学生 [陈俊雁](https://sosconf.org/zh-hans/chen-jun-yan-post) 组织,[利用线上和线下的开源社区，从没有学习机会的青少年，成为编程学习者。](https://chinese.freecodecamp.org/news/author/chen)2021年力争，活下来、建设兴趣、因为同学们很棒！
+Kido-CodeLab由实务学堂的学生 [陈俊雁](https://sosconf.org/zh-hans/chen-jun-yan-post) 组织,[利用线上和线下的开源社区，从没有学习机会的青少年，成为编程学习者。](https://chinese.freecodecamp.org/news/author/chen)2021年力争，活下来、建设兴趣、因为同学们很棒！
 
 
 
